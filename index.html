@@ -5,6 +5,20 @@
     <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Grainery</title>
+    <!--
+      Installable web app ("Add to Home Screen"). Every path here is RELATIVE, not "/manifest.json" as Expo's
+      PWA guide shows: the site is served from the GitHub Pages base path /grainery/, where a root-absolute
+      path would 404 - same rule as src/config.ts's data fetches. No service worker on purpose: browsers no
+      longer need one to install, and an offline cache would pin visitors to stale app/data after deploys.
+    -->
+    <meta name="description" content="Film photography from across Bluesky, curated by hand." />
+    <link rel="manifest" href="manifest.json" />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Grainery" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
     <style id="expo-reset">
       /* These styles make the body full-height */
