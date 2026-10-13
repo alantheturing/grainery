@@ -3252,6 +3252,112 @@
         "feed:Half Frame 35mm (heyphin.bsky.social)": 1,
         "feed:filmphoto フィルム写真部 (take9.studio-so.biz)": 1
       }
+    },
+    {
+      "runAt": "2026-10-13T08:00:28.734Z",
+      "windowStart": "2026-10-09T14:11:55.954Z",
+      "windowEnd": "2026-10-13T07:55:42.255Z",
+      "matcherVersion": "1.2",
+      "sources": {
+        "feedGenerators": [
+          "Film Photo (triangulum.bsky.social)",
+          "Film Photography (jesselebourdais.bsky.social)",
+          "Film Photography (eduawaseka.bsky.social)",
+          "Film Photography (sccjono.com)",
+          "B&W Film Photography (noogapix.com)",
+          "Shot on Film (clarabelle.xyz)",
+          "Film is not dead (fabioquellaltro.bsky.social)",
+          "Analog Photography (dbphotography.bsky.social)",
+          "Analog & film photo (heyphin.bsky.social)",
+          "Analog Photography (gelbhaar.com) - was 502 at check time",
+          "#BelieveInFilm (ezwal.bsky.social)",
+          "Half Frame 35mm (heyphin.bsky.social)",
+          "FilmPhotographyWorldwide (venenum.bsky.social)",
+          "filmphoto フィルム写真部 (take9.studio-so.biz)",
+          "Hasselblad Shooters (bluesky.photography)",
+          "Mamiya Medium Format (darkslidefilm.bsky.social)"
+        ],
+        "authorHandles": [
+          "afilmphotographer.bsky.social",
+          "greyskyphotography.bsky.social",
+          "billygomberg.bsky.social",
+          "papashittycams.bsky.social",
+          "virgil-roger.photography",
+          "alexluyckxphoto.bsky.social"
+        ]
+      },
+      "counts": {
+        "rawPostsFetched": 918,
+        "uniqueRawPosts": 585,
+        "alreadySeenDuplicates": 132,
+        "newUniquePosts": 453,
+        "droppedNoImage": 168,
+        "droppedDuplicateImage": 10,
+        "droppedUnsafe": 50,
+        "droppedNoKeywordMatch": 87,
+        "matchedPosts": 91,
+        "droppedAuthorCap": 14,
+        "droppedOverRunCap": 31,
+        "droppedTrustedRejectedAuthor": 0,
+        "autoApprovedTrustedAuthor": 33,
+        "addedToQueue": 60,
+        "uniqueAuthors": 49
+      },
+      "byKeyword": {
+        "hashtag:filmphotography": 44,
+        "hashtag:believeinfilm": 22,
+        "hashtag:35mm": 21,
+        "filmStock:Delta 3200": 1,
+        "filmStock-alias:Delta": 2,
+        "camera-alias:Olympus": 4,
+        "filmStock:Portra 400": 1,
+        "filmStock:Tri-X 400": 2,
+        "filmStock-alias:Portra": 3,
+        "filmStock-alias:Tri-X": 3,
+        "filmStock:Kentmere Pan 400": 1,
+        "filmStock-alias:Kentmere": 2,
+        "camera:K1000": 1,
+        "filmStock:Gold 200": 1,
+        "filmStock-alias:Ektar": 3,
+        "filmStock-alias:ColorPlus": 2,
+        "filmStock:Ektar 100": 2,
+        "camera-alias:Rolleiflex": 1,
+        "camera-alias:Minolta": 6,
+        "hashtag:shotonfilm": 1,
+        "filmStock:Kentmere Pan 200": 1,
+        "camera:OM-1": 1,
+        "filmStock:UltraMax 400": 1,
+        "filmStock-alias:UltraMax": 1,
+        "filmStock-alias:Instax": 3,
+        "camera:M6": 1,
+        "camera-alias:Hasselblad": 2,
+        "filmStock-alias:Acros": 1,
+        "camera-alias:Yashica": 2,
+        "process:push-pull": 1,
+        "camera:AE-1": 1,
+        "filmStock-alias:HP5": 1,
+        "process:C-41": 2,
+        "filmStock:Fomapan 400": 1,
+        "filmStock-alias:Fomapan": 1
+      },
+      "byCategory": {
+        "hashtag": 59,
+        "filmStock": 21,
+        "camera": 18,
+        "process": 3
+      },
+      "bySource": {
+        "feed:Film Photography (jesselebourdais.bsky.social)": 5,
+        "feed:Analog & film photo (heyphin.bsky.social)": 6,
+        "feed:FilmPhotographyWorldwide (venenum.bsky.social)": 5,
+        "feed:Film Photo (triangulum.bsky.social)": 27,
+        "feed:Film Photography (eduawaseka.bsky.social)": 3,
+        "feed:Film Photography (sccjono.com)": 4,
+        "feed:Half Frame 35mm (heyphin.bsky.social)": 2,
+        "feed:Hasselblad Shooters (bluesky.photography)": 1,
+        "feed:B&W Film Photography (noogapix.com)": 6,
+        "feed:Shot on Film (clarabelle.xyz)": 1
+      }
     }
   ]
 }
