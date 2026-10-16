@@ -3540,6 +3540,74 @@
         "feed:filmphoto フィルム写真部 (take9.studio-so.biz)": 1,
         "feed:Hasselblad Shooters (bluesky.photography)": 1
       }
+    },
+    {
+      "runAt": "2026-10-16T10:41:52.874Z",
+      "windowStart": "2026-10-15T23:36:29.666Z",
+      "windowEnd": "2026-10-16T08:14:26.058Z",
+      "matcherVersion": "1.2",
+      "sources": {
+        "feedGenerators": [
+          "Film Photo (triangulum.bsky.social)",
+          "Film Photography (jesselebourdais.bsky.social)",
+          "Film Photography (eduawaseka.bsky.social)",
+          "Film Photography (sccjono.com)",
+          "B&W Film Photography (noogapix.com)",
+          "Shot on Film (clarabelle.xyz)",
+          "Film is not dead (fabioquellaltro.bsky.social)",
+          "Analog Photography (dbphotography.bsky.social)",
+          "Analog & film photo (heyphin.bsky.social)",
+          "Analog Photography (gelbhaar.com) - was 502 at check time",
+          "#BelieveInFilm (ezwal.bsky.social)",
+          "Half Frame 35mm (heyphin.bsky.social)",
+          "FilmPhotographyWorldwide (venenum.bsky.social)",
+          "filmphoto フィルム写真部 (take9.studio-so.biz)",
+          "Hasselblad Shooters (bluesky.photography)",
+          "Mamiya Medium Format (darkslidefilm.bsky.social)"
+        ],
+        "authorHandles": [
+          "afilmphotographer.bsky.social",
+          "greyskyphotography.bsky.social",
+          "billygomberg.bsky.social",
+          "papashittycams.bsky.social",
+          "virgil-roger.photography",
+          "alexluyckxphoto.bsky.social"
+        ]
+      },
+      "counts": {
+        "rawPostsFetched": 877,
+        "uniqueRawPosts": 555,
+        "alreadySeenDuplicates": 147,
+        "newUniquePosts": 408,
+        "droppedNoImage": 162,
+        "droppedDuplicateImage": 18,
+        "droppedUnsafe": 43,
+        "droppedNoKeywordMatch": 72,
+        "matchedPosts": 10,
+        "droppedAuthorCap": 6,
+        "droppedOverRunCap": 0,
+        "droppedTrustedRejectedAuthor": 0,
+        "autoApprovedTrustedAuthor": 97,
+        "addedToQueue": 10,
+        "uniqueAuthors": 6
+      },
+      "byKeyword": {
+        "hashtag:filmphotography": 5,
+        "camera:A-1": 2,
+        "hashtag:believeinfilm": 2,
+        "hashtag:35mm": 3,
+        "camera-alias:Olympus": 1
+      },
+      "byCategory": {
+        "hashtag": 9,
+        "camera": 3
+      },
+      "bySource": {
+        "feed:Film Photo (triangulum.bsky.social)": 4,
+        "feed:Shot on Film (clarabelle.xyz)": 2,
+        "feed:Analog & film photo (heyphin.bsky.social)": 3,
+        "feed:Film Photography (sccjono.com)": 1
+      }
     }
   ]
 }
