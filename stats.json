@@ -3918,6 +3918,81 @@
         "feed:Film Photography (sccjono.com)": 1,
         "author:papashittycams.bsky.social": 1
       }
+    },
+    {
+      "runAt": "2026-10-21T09:59:53.233Z",
+      "windowStart": "2026-10-20T11:56:39.039Z",
+      "windowEnd": "2026-10-21T09:44:04.753Z",
+      "matcherVersion": "1.2",
+      "sources": {
+        "feedGenerators": [
+          "Film Photo (triangulum.bsky.social)",
+          "Film Photography (jesselebourdais.bsky.social)",
+          "Film Photography (eduawaseka.bsky.social)",
+          "Film Photography (sccjono.com)",
+          "B&W Film Photography (noogapix.com)",
+          "Shot on Film (clarabelle.xyz)",
+          "Film is not dead (fabioquellaltro.bsky.social)",
+          "Analog Photography (dbphotography.bsky.social)",
+          "Analog & film photo (heyphin.bsky.social)",
+          "Analog Photography (gelbhaar.com) - was 502 at check time",
+          "#BelieveInFilm (ezwal.bsky.social)",
+          "Half Frame 35mm (heyphin.bsky.social)",
+          "FilmPhotographyWorldwide (venenum.bsky.social)",
+          "filmphoto フィルム写真部 (take9.studio-so.biz)",
+          "Hasselblad Shooters (bluesky.photography)",
+          "Mamiya Medium Format (darkslidefilm.bsky.social)"
+        ],
+        "authorHandles": [
+          "afilmphotographer.bsky.social",
+          "greyskyphotography.bsky.social",
+          "billygomberg.bsky.social",
+          "papashittycams.bsky.social",
+          "virgil-roger.photography",
+          "alexluyckxphoto.bsky.social"
+        ]
+      },
+      "counts": {
+        "rawPostsFetched": 923,
+        "uniqueRawPosts": 612,
+        "alreadySeenDuplicates": 167,
+        "newUniquePosts": 445,
+        "droppedNoImage": 155,
+        "droppedDuplicateImage": 7,
+        "droppedUnsafe": 88,
+        "droppedNoKeywordMatch": 88,
+        "matchedPosts": 13,
+        "droppedAuthorCap": 1,
+        "droppedOverRunCap": 0,
+        "droppedTrustedRejectedAuthor": 1,
+        "autoApprovedTrustedAuthor": 92,
+        "addedToQueue": 13,
+        "uniqueAuthors": 10
+      },
+      "byKeyword": {
+        "hashtag:filmphotography": 7,
+        "hashtag:believeinfilm": 6,
+        "hashtag:35mm": 6,
+        "filmStock-alias:Instax": 1,
+        "filmStock:Portra 160": 1,
+        "filmStock-alias:Portra": 1,
+        "camera:RB67": 1,
+        "camera-alias:Mamiya": 1,
+        "camera-alias:Hasselblad": 2
+      },
+      "byCategory": {
+        "hashtag": 10,
+        "filmStock": 2,
+        "camera": 3
+      },
+      "bySource": {
+        "feed:Film Photography (eduawaseka.bsky.social)": 2,
+        "feed:Analog & film photo (heyphin.bsky.social)": 4,
+        "feed:Film Photo (triangulum.bsky.social)": 4,
+        "feed:filmphoto フィルム写真部 (take9.studio-so.biz)": 1,
+        "feed:Shot on Film (clarabelle.xyz)": 1,
+        "feed:Hasselblad Shooters (bluesky.photography)": 1
+      }
     }
   ]
 }
