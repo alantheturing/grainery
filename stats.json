@@ -4149,6 +4149,60 @@
         "feed:Film Photography (sccjono.com)": 2,
         "feed:filmphoto フィルム写真部 (take9.studio-so.biz)": 1
       }
+    },
+    {
+      "runAt": "2026-10-24T17:43:36.536Z",
+      "windowStart": "2026-10-24T17:43:36.536Z",
+      "windowEnd": "2026-10-24T17:43:36.536Z",
+      "matcherVersion": "1.2",
+      "sources": {
+        "feedGenerators": [
+          "Film Photo (triangulum.bsky.social)",
+          "Film Photography (jesselebourdais.bsky.social)",
+          "Film Photography (eduawaseka.bsky.social)",
+          "Film Photography (sccjono.com)",
+          "B&W Film Photography (noogapix.com)",
+          "Shot on Film (clarabelle.xyz)",
+          "Film is not dead (fabioquellaltro.bsky.social)",
+          "Analog Photography (dbphotography.bsky.social)",
+          "Analog & film photo (heyphin.bsky.social)",
+          "Analog Photography (gelbhaar.com) - was 502 at check time",
+          "#BelieveInFilm (ezwal.bsky.social)",
+          "Half Frame 35mm (heyphin.bsky.social)",
+          "FilmPhotographyWorldwide (venenum.bsky.social)",
+          "filmphoto フィルム写真部 (take9.studio-so.biz)",
+          "Hasselblad Shooters (bluesky.photography)",
+          "Mamiya Medium Format (darkslidefilm.bsky.social)"
+        ],
+        "authorHandles": [
+          "afilmphotographer.bsky.social",
+          "greyskyphotography.bsky.social",
+          "billygomberg.bsky.social",
+          "papashittycams.bsky.social",
+          "virgil-roger.photography",
+          "alexluyckxphoto.bsky.social"
+        ]
+      },
+      "counts": {
+        "rawPostsFetched": 0,
+        "uniqueRawPosts": 0,
+        "alreadySeenDuplicates": 0,
+        "newUniquePosts": 0,
+        "droppedNoImage": 0,
+        "droppedDuplicateImage": 0,
+        "droppedUnsafe": 0,
+        "droppedNoKeywordMatch": 0,
+        "matchedPosts": 0,
+        "droppedAuthorCap": 0,
+        "droppedOverRunCap": 0,
+        "droppedTrustedRejectedAuthor": 0,
+        "autoApprovedTrustedAuthor": 0,
+        "addedToQueue": 0,
+        "uniqueAuthors": 0
+      },
+      "byKeyword": {},
+      "byCategory": {},
+      "bySource": {}
     }
   ]
 }
