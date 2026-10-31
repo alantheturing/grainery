@@ -4203,6 +4203,496 @@
       "byKeyword": {},
       "byCategory": {},
       "bySource": {}
+    },
+    {
+      "runAt": "2026-10-25T10:09:38.858Z",
+      "windowStart": "2026-10-23T12:08:38.042Z",
+      "windowEnd": "2026-10-25T08:56:05.255Z",
+      "matcherVersion": "1.2",
+      "sources": {
+        "feedGenerators": [
+          "Film Photo (triangulum.bsky.social)",
+          "Film Photography (jesselebourdais.bsky.social)",
+          "Film Photography (eduawaseka.bsky.social)",
+          "Film Photography (sccjono.com)",
+          "B&W Film Photography (noogapix.com)",
+          "Shot on Film (clarabelle.xyz)",
+          "Film is not dead (fabioquellaltro.bsky.social)",
+          "Analog Photography (dbphotography.bsky.social)",
+          "Analog & film photo (heyphin.bsky.social)",
+          "Analog Photography (gelbhaar.com) - was 502 at check time",
+          "#BelieveInFilm (ezwal.bsky.social)",
+          "Half Frame 35mm (heyphin.bsky.social)",
+          "FilmPhotographyWorldwide (venenum.bsky.social)",
+          "filmphoto フィルム写真部 (take9.studio-so.biz)",
+          "Hasselblad Shooters (bluesky.photography)",
+          "Mamiya Medium Format (darkslidefilm.bsky.social)"
+        ],
+        "authorHandles": [
+          "afilmphotographer.bsky.social",
+          "greyskyphotography.bsky.social",
+          "billygomberg.bsky.social",
+          "papashittycams.bsky.social",
+          "virgil-roger.photography",
+          "alexluyckxphoto.bsky.social"
+        ]
+      },
+      "counts": {
+        "rawPostsFetched": 924,
+        "uniqueRawPosts": 608,
+        "alreadySeenDuplicates": 122,
+        "newUniquePosts": 486,
+        "droppedNoImage": 189,
+        "droppedDuplicateImage": 0,
+        "droppedUnsafe": 51,
+        "droppedNoKeywordMatch": 83,
+        "matchedPosts": 20,
+        "droppedAuthorCap": 3,
+        "droppedOverRunCap": 0,
+        "droppedTrustedRejectedAuthor": 0,
+        "autoApprovedTrustedAuthor": 140,
+        "addedToQueue": 20,
+        "uniqueAuthors": 17
+      },
+      "byKeyword": {
+        "hashtag:filmphotography": 10,
+        "hashtag:believeinfilm": 7,
+        "hashtag:35mm": 5,
+        "camera-alias:Yashica": 2,
+        "hashtag:120film": 1,
+        "filmStock-alias:Instax": 1,
+        "camera-alias:Mamiya": 1,
+        "filmStock-alias:HP5": 1,
+        "camera:M6": 1,
+        "filmStock-alias:Kentmere": 1,
+        "camera-alias:Olympus": 1,
+        "camera-alias:Hasselblad": 2
+      },
+      "byCategory": {
+        "hashtag": 16,
+        "camera": 7,
+        "filmStock": 3
+      },
+      "bySource": {
+        "feed:Film Photo (triangulum.bsky.social)": 9,
+        "feed:Analog & film photo (heyphin.bsky.social)": 2,
+        "feed:Mamiya Medium Format (darkslidefilm.bsky.social)": 1,
+        "feed:Film Photography (sccjono.com)": 1,
+        "feed:B&W Film Photography (noogapix.com)": 3,
+        "feed:Shot on Film (clarabelle.xyz)": 1,
+        "feed:Half Frame 35mm (heyphin.bsky.social)": 1,
+        "feed:Hasselblad Shooters (bluesky.photography)": 2
+      }
+    },
+    {
+      "runAt": "2026-10-26T11:42:42.792Z",
+      "windowStart": "2026-10-25T09:44:12.443Z",
+      "windowEnd": "2026-10-26T10:37:37.537Z",
+      "matcherVersion": "1.2",
+      "sources": {
+        "feedGenerators": [
+          "Film Photo (triangulum.bsky.social)",
+          "Film Photography (jesselebourdais.bsky.social)",
+          "Film Photography (eduawaseka.bsky.social)",
+          "Film Photography (sccjono.com)",
+          "B&W Film Photography (noogapix.com)",
+          "Shot on Film (clarabelle.xyz)",
+          "Film is not dead (fabioquellaltro.bsky.social)",
+          "Analog Photography (dbphotography.bsky.social)",
+          "Analog & film photo (heyphin.bsky.social)",
+          "Analog Photography (gelbhaar.com) - was 502 at check time",
+          "#BelieveInFilm (ezwal.bsky.social)",
+          "Half Frame 35mm (heyphin.bsky.social)",
+          "FilmPhotographyWorldwide (venenum.bsky.social)",
+          "filmphoto フィルム写真部 (take9.studio-so.biz)",
+          "Hasselblad Shooters (bluesky.photography)",
+          "Mamiya Medium Format (darkslidefilm.bsky.social)"
+        ],
+        "authorHandles": [
+          "afilmphotographer.bsky.social",
+          "greyskyphotography.bsky.social",
+          "billygomberg.bsky.social",
+          "papashittycams.bsky.social",
+          "virgil-roger.photography",
+          "alexluyckxphoto.bsky.social"
+        ]
+      },
+      "counts": {
+        "rawPostsFetched": 922,
+        "uniqueRawPosts": 615,
+        "alreadySeenDuplicates": 167,
+        "newUniquePosts": 448,
+        "droppedNoImage": 187,
+        "droppedDuplicateImage": 2,
+        "droppedUnsafe": 48,
+        "droppedNoKeywordMatch": 82,
+        "matchedPosts": 18,
+        "droppedAuthorCap": 0,
+        "droppedOverRunCap": 0,
+        "droppedTrustedRejectedAuthor": 0,
+        "autoApprovedTrustedAuthor": 111,
+        "addedToQueue": 18,
+        "uniqueAuthors": 12
+      },
+      "byKeyword": {
+        "hashtag:filmphotography": 10,
+        "hashtag:believeinfilm": 6,
+        "filmStock-alias:HP5": 1,
+        "camera-alias:Olympus": 1,
+        "hashtag:35mm": 5,
+        "filmStock-alias:Fomapan": 2,
+        "camera-alias:Yashica": 2,
+        "filmStock-alias:Kentmere": 1,
+        "filmStock:Gold 200": 1,
+        "hashtag:120film": 1,
+        "filmStock:Instax Mini": 1,
+        "filmStock-alias:Instax": 2,
+        "filmStock-alias:Vision3": 1,
+        "camera-alias:Hasselblad": 2
+      },
+      "byCategory": {
+        "hashtag": 13,
+        "filmStock": 8,
+        "camera": 5
+      },
+      "bySource": {
+        "feed:Film Photo (triangulum.bsky.social)": 1,
+        "feed:FilmPhotographyWorldwide (venenum.bsky.social)": 4,
+        "feed:Film is not dead (fabioquellaltro.bsky.social)": 1,
+        "feed:Film Photography (jesselebourdais.bsky.social)": 2,
+        "feed:B&W Film Photography (noogapix.com)": 4,
+        "feed:Film Photography (eduawaseka.bsky.social)": 1,
+        "feed:Analog & film photo (heyphin.bsky.social)": 2,
+        "feed:Analog Photography (gelbhaar.com) - was 502 at check time": 1,
+        "feed:Hasselblad Shooters (bluesky.photography)": 2
+      }
+    },
+    {
+      "runAt": "2026-10-27T21:28:41.358Z",
+      "windowStart": "2026-10-27T21:28:41.358Z",
+      "windowEnd": "2026-10-27T21:28:41.358Z",
+      "matcherVersion": "1.2",
+      "sources": {
+        "feedGenerators": [
+          "Film Photo (triangulum.bsky.social)",
+          "Film Photography (jesselebourdais.bsky.social)",
+          "Film Photography (eduawaseka.bsky.social)",
+          "Film Photography (sccjono.com)",
+          "B&W Film Photography (noogapix.com)",
+          "Shot on Film (clarabelle.xyz)",
+          "Film is not dead (fabioquellaltro.bsky.social)",
+          "Analog Photography (dbphotography.bsky.social)",
+          "Analog & film photo (heyphin.bsky.social)",
+          "Analog Photography (gelbhaar.com) - was 502 at check time",
+          "#BelieveInFilm (ezwal.bsky.social)",
+          "Half Frame 35mm (heyphin.bsky.social)",
+          "FilmPhotographyWorldwide (venenum.bsky.social)",
+          "filmphoto フィルム写真部 (take9.studio-so.biz)",
+          "Hasselblad Shooters (bluesky.photography)",
+          "Mamiya Medium Format (darkslidefilm.bsky.social)"
+        ],
+        "authorHandles": [
+          "afilmphotographer.bsky.social",
+          "greyskyphotography.bsky.social",
+          "billygomberg.bsky.social",
+          "papashittycams.bsky.social",
+          "virgil-roger.photography",
+          "alexluyckxphoto.bsky.social"
+        ]
+      },
+      "counts": {
+        "rawPostsFetched": 0,
+        "uniqueRawPosts": 0,
+        "alreadySeenDuplicates": 0,
+        "newUniquePosts": 0,
+        "droppedNoImage": 0,
+        "droppedDuplicateImage": 0,
+        "droppedUnsafe": 0,
+        "droppedNoKeywordMatch": 0,
+        "matchedPosts": 0,
+        "droppedAuthorCap": 0,
+        "droppedOverRunCap": 0,
+        "droppedTrustedRejectedAuthor": 0,
+        "autoApprovedTrustedAuthor": 0,
+        "addedToQueue": 0,
+        "uniqueAuthors": 0
+      },
+      "byKeyword": {},
+      "byCategory": {},
+      "bySource": {}
+    },
+    {
+      "runAt": "2026-10-28T11:52:42.455Z",
+      "windowStart": "2026-10-26T23:13:47.771Z",
+      "windowEnd": "2026-10-26T23:13:47.771Z",
+      "matcherVersion": "1.2",
+      "sources": {
+        "feedGenerators": [
+          "Film Photo (triangulum.bsky.social)",
+          "Film Photography (jesselebourdais.bsky.social)",
+          "Film Photography (eduawaseka.bsky.social)",
+          "Film Photography (sccjono.com)",
+          "B&W Film Photography (noogapix.com)",
+          "Shot on Film (clarabelle.xyz)",
+          "Film is not dead (fabioquellaltro.bsky.social)",
+          "Analog Photography (dbphotography.bsky.social)",
+          "Analog & film photo (heyphin.bsky.social)",
+          "Analog Photography (gelbhaar.com) - was 502 at check time",
+          "#BelieveInFilm (ezwal.bsky.social)",
+          "Half Frame 35mm (heyphin.bsky.social)",
+          "FilmPhotographyWorldwide (venenum.bsky.social)",
+          "filmphoto フィルム写真部 (take9.studio-so.biz)",
+          "Hasselblad Shooters (bluesky.photography)",
+          "Mamiya Medium Format (darkslidefilm.bsky.social)"
+        ],
+        "authorHandles": [
+          "afilmphotographer.bsky.social",
+          "greyskyphotography.bsky.social",
+          "billygomberg.bsky.social",
+          "papashittycams.bsky.social",
+          "virgil-roger.photography",
+          "alexluyckxphoto.bsky.social"
+        ]
+      },
+      "counts": {
+        "rawPostsFetched": 180,
+        "uniqueRawPosts": 180,
+        "alreadySeenDuplicates": 42,
+        "newUniquePosts": 138,
+        "droppedNoImage": 101,
+        "droppedDuplicateImage": 1,
+        "droppedUnsafe": 10,
+        "droppedNoKeywordMatch": 16,
+        "matchedPosts": 1,
+        "droppedAuthorCap": 0,
+        "droppedOverRunCap": 0,
+        "droppedTrustedRejectedAuthor": 0,
+        "autoApprovedTrustedAuthor": 9,
+        "addedToQueue": 1,
+        "uniqueAuthors": 1
+      },
+      "byKeyword": {
+        "filmStock-alias:Velvia": 1
+      },
+      "byCategory": {
+        "filmStock": 1
+      },
+      "bySource": {
+        "author:papashittycams.bsky.social": 1
+      }
+    },
+    {
+      "runAt": "2026-10-29T21:24:50.965Z",
+      "windowStart": "2026-10-29T21:24:50.965Z",
+      "windowEnd": "2026-10-29T21:24:50.965Z",
+      "matcherVersion": "1.2",
+      "sources": {
+        "feedGenerators": [
+          "Film Photo (triangulum.bsky.social)",
+          "Film Photography (jesselebourdais.bsky.social)",
+          "Film Photography (eduawaseka.bsky.social)",
+          "Film Photography (sccjono.com)",
+          "B&W Film Photography (noogapix.com)",
+          "Shot on Film (clarabelle.xyz)",
+          "Film is not dead (fabioquellaltro.bsky.social)",
+          "Analog Photography (dbphotography.bsky.social)",
+          "Analog & film photo (heyphin.bsky.social)",
+          "Analog Photography (gelbhaar.com) - was 502 at check time",
+          "#BelieveInFilm (ezwal.bsky.social)",
+          "Half Frame 35mm (heyphin.bsky.social)",
+          "FilmPhotographyWorldwide (venenum.bsky.social)",
+          "filmphoto フィルム写真部 (take9.studio-so.biz)",
+          "Hasselblad Shooters (bluesky.photography)",
+          "Mamiya Medium Format (darkslidefilm.bsky.social)"
+        ],
+        "authorHandles": [
+          "afilmphotographer.bsky.social",
+          "greyskyphotography.bsky.social",
+          "billygomberg.bsky.social",
+          "papashittycams.bsky.social",
+          "virgil-roger.photography",
+          "alexluyckxphoto.bsky.social"
+        ]
+      },
+      "counts": {
+        "rawPostsFetched": 0,
+        "uniqueRawPosts": 0,
+        "alreadySeenDuplicates": 0,
+        "newUniquePosts": 0,
+        "droppedNoImage": 0,
+        "droppedDuplicateImage": 0,
+        "droppedUnsafe": 0,
+        "droppedNoKeywordMatch": 0,
+        "matchedPosts": 0,
+        "droppedAuthorCap": 0,
+        "droppedOverRunCap": 0,
+        "droppedTrustedRejectedAuthor": 0,
+        "autoApprovedTrustedAuthor": 0,
+        "addedToQueue": 0,
+        "uniqueAuthors": 0
+      },
+      "byKeyword": {},
+      "byCategory": {},
+      "bySource": {}
+    },
+    {
+      "runAt": "2026-10-30T11:33:39.957Z",
+      "windowStart": "2026-10-26T19:59:58.446Z",
+      "windowEnd": "2026-10-30T08:24:55.578Z",
+      "matcherVersion": "1.2",
+      "sources": {
+        "feedGenerators": [
+          "Film Photo (triangulum.bsky.social)",
+          "Film Photography (jesselebourdais.bsky.social)",
+          "Film Photography (eduawaseka.bsky.social)",
+          "Film Photography (sccjono.com)",
+          "B&W Film Photography (noogapix.com)",
+          "Shot on Film (clarabelle.xyz)",
+          "Film is not dead (fabioquellaltro.bsky.social)",
+          "Analog Photography (dbphotography.bsky.social)",
+          "Analog & film photo (heyphin.bsky.social)",
+          "Analog Photography (gelbhaar.com) - was 502 at check time",
+          "#BelieveInFilm (ezwal.bsky.social)",
+          "Half Frame 35mm (heyphin.bsky.social)",
+          "FilmPhotographyWorldwide (venenum.bsky.social)",
+          "filmphoto フィルム写真部 (take9.studio-so.biz)",
+          "Hasselblad Shooters (bluesky.photography)",
+          "Mamiya Medium Format (darkslidefilm.bsky.social)"
+        ],
+        "authorHandles": [
+          "afilmphotographer.bsky.social",
+          "greyskyphotography.bsky.social",
+          "billygomberg.bsky.social",
+          "papashittycams.bsky.social",
+          "virgil-roger.photography",
+          "alexluyckxphoto.bsky.social"
+        ]
+      },
+      "counts": {
+        "rawPostsFetched": 813,
+        "uniqueRawPosts": 536,
+        "alreadySeenDuplicates": 82,
+        "newUniquePosts": 454,
+        "droppedNoImage": 137,
+        "droppedDuplicateImage": 2,
+        "droppedUnsafe": 56,
+        "droppedNoKeywordMatch": 85,
+        "matchedPosts": 21,
+        "droppedAuthorCap": 0,
+        "droppedOverRunCap": 0,
+        "droppedTrustedRejectedAuthor": 1,
+        "autoApprovedTrustedAuthor": 152,
+        "addedToQueue": 21,
+        "uniqueAuthors": 17
+      },
+      "byKeyword": {
+        "hashtag:filmphotography": 12,
+        "hashtag:believeinfilm": 5,
+        "hashtag:35mm": 2,
+        "filmStock-alias:Harman Phoenix": 1,
+        "filmStock-alias:Phoenix II": 1,
+        "filmStock:Gold 200": 2,
+        "process:ECN-2": 1,
+        "filmStock:Ektar 100": 1,
+        "filmStock-alias:Ektar": 1,
+        "hashtag:120film": 1,
+        "filmStock:Velvia 50": 1,
+        "filmStock-alias:Velvia": 1,
+        "camera-alias:Hasselblad": 5,
+        "filmStock-alias:Instax": 2,
+        "camera-alias:Minolta": 1
+      },
+      "byCategory": {
+        "hashtag": 13,
+        "filmStock": 7,
+        "process": 1,
+        "camera": 6
+      },
+      "bySource": {
+        "feed:Film Photography (jesselebourdais.bsky.social)": 3,
+        "feed:FilmPhotographyWorldwide (venenum.bsky.social)": 5,
+        "feed:Film Photo (triangulum.bsky.social)": 3,
+        "feed:Analog & film photo (heyphin.bsky.social)": 4,
+        "feed:Hasselblad Shooters (bluesky.photography)": 5,
+        "feed:filmphoto フィルム写真部 (take9.studio-so.biz)": 1
+      }
+    },
+    {
+      "runAt": "2026-10-31T09:10:52.209Z",
+      "windowStart": "2026-10-27T19:15:22.770Z",
+      "windowEnd": "2026-10-31T06:15:07.674Z",
+      "matcherVersion": "1.2",
+      "sources": {
+        "feedGenerators": [
+          "Film Photo (triangulum.bsky.social)",
+          "Film Photography (jesselebourdais.bsky.social)",
+          "Film Photography (eduawaseka.bsky.social)",
+          "Film Photography (sccjono.com)",
+          "B&W Film Photography (noogapix.com)",
+          "Shot on Film (clarabelle.xyz)",
+          "Film is not dead (fabioquellaltro.bsky.social)",
+          "Analog Photography (dbphotography.bsky.social)",
+          "Analog & film photo (heyphin.bsky.social)",
+          "Analog Photography (gelbhaar.com) - was 502 at check time",
+          "#BelieveInFilm (ezwal.bsky.social)",
+          "Half Frame 35mm (heyphin.bsky.social)",
+          "FilmPhotographyWorldwide (venenum.bsky.social)",
+          "filmphoto フィルム写真部 (take9.studio-so.biz)",
+          "Hasselblad Shooters (bluesky.photography)",
+          "Mamiya Medium Format (darkslidefilm.bsky.social)"
+        ],
+        "authorHandles": [
+          "afilmphotographer.bsky.social",
+          "greyskyphotography.bsky.social",
+          "billygomberg.bsky.social",
+          "papashittycams.bsky.social",
+          "virgil-roger.photography",
+          "alexluyckxphoto.bsky.social"
+        ]
+      },
+      "counts": {
+        "rawPostsFetched": 848,
+        "uniqueRawPosts": 578,
+        "alreadySeenDuplicates": 166,
+        "newUniquePosts": 412,
+        "droppedNoImage": 144,
+        "droppedDuplicateImage": 7,
+        "droppedUnsafe": 55,
+        "droppedNoKeywordMatch": 105,
+        "matchedPosts": 14,
+        "droppedAuthorCap": 0,
+        "droppedOverRunCap": 0,
+        "droppedTrustedRejectedAuthor": 1,
+        "autoApprovedTrustedAuthor": 86,
+        "addedToQueue": 14,
+        "uniqueAuthors": 13
+      },
+      "byKeyword": {
+        "hashtag:filmphotography": 6,
+        "hashtag:shotonfilm": 1,
+        "hashtag:35mm": 3,
+        "filmStock:Kentmere Pan 200": 1,
+        "filmStock-alias:Kentmere": 1,
+        "hashtag:believeinfilm": 4,
+        "camera-alias:Olympus": 2,
+        "filmStock-alias:Instax": 1,
+        "camera-alias:Hasselblad": 1
+      },
+      "byCategory": {
+        "hashtag": 10,
+        "filmStock": 2,
+        "camera": 3
+      },
+      "bySource": {
+        "feed:Film Photo (triangulum.bsky.social)": 4,
+        "feed:FilmPhotographyWorldwide (venenum.bsky.social)": 1,
+        "feed:Shot on Film (clarabelle.xyz)": 1,
+        "feed:Film is not dead (fabioquellaltro.bsky.social)": 1,
+        "feed:Analog & film photo (heyphin.bsky.social)": 1,
+        "feed:Half Frame 35mm (heyphin.bsky.social)": 4,
+        "feed:filmphoto フィルム写真部 (take9.studio-so.biz)": 1,
+        "feed:Hasselblad Shooters (bluesky.photography)": 1
+      }
     }
   ]
 }
