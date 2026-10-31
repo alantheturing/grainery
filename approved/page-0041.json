@@ -2,9 +2,45 @@
   "pageNumber": 41,
   "items": [
     {
-      "uri": "at://did:plc:vsblkq7tkwvckf74tm4ec6jq/app.bsky.feed.post/3mwwolg26ks27",
+      "uri": "at://did:plc:sfeipr3tmnrazbfaah3cl6eu/app.bsky.feed.post/3mx4lcc4ja22i",
       "highlighted": false,
-      "curatedAt": "2026-10-14T14:13:05.021Z",
+      "curatedAt": "2026-10-06T11:26:06.050Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        },
+        {
+          "keywordId": "filmStock-alias:Ektar",
+          "category": "filmStock",
+          "matchedText": "Ektar"
+        },
+        {
+          "keywordId": "camera-alias:Hasselblad",
+          "category": "camera",
+          "matchedText": "Hasselblad"
+        }
+      ],
+      "indexedAt": "2026-10-05T09:14:58.161Z"
+    },
+    {
+      "uri": "at://did:plc:zmgvbbhl7sdh4p7lw56mp2ct/app.bsky.feed.post/3mx4ki67kdh2f",
+      "highlighted": false,
+      "curatedAt": "2026-10-06T11:26:05.227Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:35mm",
+          "category": "hashtag",
+          "matchedText": "#35mm"
+        }
+      ],
+      "indexedAt": "2026-10-05T09:00:15.761Z"
+    },
+    {
+      "uri": "at://did:plc:6fgfvr3ru3db6pwkjtxjs6yf/app.bsky.feed.post/3mx4hi6gdos2b",
+      "highlighted": false,
+      "curatedAt": "2026-10-05T08:30:48.696Z",
       "matches": [
         {
           "keywordId": "hashtag:filmphotography",
@@ -15,19 +51,160 @@
           "keywordId": "hashtag:believeinfilm",
           "category": "hashtag",
           "matchedText": "#believeinfilm"
+        },
+        {
+          "keywordId": "filmStock-alias:Ektar",
+          "category": "filmStock",
+          "matchedText": "Ektar"
         }
       ],
-      "indexedAt": "2026-10-03T00:57:45.959Z"
+      "indexedAt": "2026-10-05T08:06:39.057Z"
     },
     {
-      "uri": "at://did:plc:exonjngjwti2vuzxtdsa7tgv/app.bsky.feed.post/3mwwkqvtoi22a",
+      "uri": "at://did:plc:c2un6jmu5a7ykd3uhnr6mnil/app.bsky.feed.post/3mx4hbwjy3s2q",
       "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:20.324Z",
+      "curatedAt": "2026-10-14T14:13:26.114Z",
       "matches": [
         {
-          "keywordId": "camera:X-700",
+          "keywordId": "hashtag:120film",
+          "category": "hashtag",
+          "matchedText": "#120film"
+        }
+      ],
+      "indexedAt": "2026-10-05T08:03:11.568Z"
+    },
+    {
+      "uri": "at://did:plc:6fgfvr3ru3db6pwkjtxjs6yf/app.bsky.feed.post/3mx4h7dhlqc2b",
+      "highlighted": false,
+      "curatedAt": "2026-10-05T08:30:48.755Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        },
+        {
+          "keywordId": "hashtag:believeinfilm",
+          "category": "hashtag",
+          "matchedText": "#believeinfilm"
+        },
+        {
+          "keywordId": "filmStock:UltraMax 400",
+          "category": "filmStock",
+          "matchedText": "Ultramax 400"
+        },
+        {
+          "keywordId": "filmStock-alias:UltraMax",
+          "category": "filmStock",
+          "matchedText": "Ultramax"
+        }
+      ],
+      "indexedAt": "2026-10-05T08:01:42.656Z"
+    },
+    {
+      "uri": "at://did:plc:zmgvbbhl7sdh4p7lw56mp2ct/app.bsky.feed.post/3mx4h4vgywj2r",
+      "highlighted": false,
+      "curatedAt": "2026-10-05T08:30:48.821Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:35mm",
+          "category": "hashtag",
+          "matchedText": "#35mm"
+        }
+      ],
+      "indexedAt": "2026-10-05T08:00:16.159Z"
+    },
+    {
+      "uri": "at://did:plc:inund2tnuawj3punchwbcnw7/app.bsky.feed.post/3mx4gkx4ayk2b",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:24.387Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:believeinfilm",
+          "category": "hashtag",
+          "matchedText": "#believeinfilm"
+        },
+        {
+          "keywordId": "hashtag:shotonfilm",
+          "category": "hashtag",
+          "matchedText": "#shotonfilm"
+        },
+        {
+          "keywordId": "camera-alias:Mamiya",
           "category": "camera",
-          "matchedText": "X-700"
+          "matchedText": "mamiya"
+        }
+      ],
+      "indexedAt": "2026-10-05T07:50:18.264Z"
+    },
+    {
+      "uri": "at://did:plc:pdxxzbdjxeiaglw2xh3tdk7t/app.bsky.feed.post/3mx4eeg7tbs24",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T13:57:01.899Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        },
+        {
+          "keywordId": "filmStock-alias:Portra",
+          "category": "filmStock",
+          "matchedText": "Portra"
+        }
+      ],
+      "indexedAt": "2026-10-05T07:10:54.561Z"
+    },
+    {
+      "uri": "at://did:plc:sfsa2hp4df73sv3ov2vvneey/app.bsky.feed.post/3mx4dvs2iws2t",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:29:23.861Z",
+      "matches": [
+        {
+          "keywordId": "filmStock:Ektar 100",
+          "category": "filmStock",
+          "matchedText": "Ektar 100"
+        },
+        {
+          "keywordId": "filmStock-alias:Ektar",
+          "category": "filmStock",
+          "matchedText": "Ektar"
+        },
+        {
+          "keywordId": "camera:M6",
+          "category": "camera",
+          "matchedText": "M6"
+        }
+      ],
+      "indexedAt": "2026-10-05T07:02:41.665Z"
+    },
+    {
+      "uri": "at://did:plc:zmgvbbhl7sdh4p7lw56mp2ct/app.bsky.feed.post/3mx4drkrz5f2j",
+      "highlighted": false,
+      "curatedAt": "2026-10-05T08:30:48.876Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:35mm",
+          "category": "hashtag",
+          "matchedText": "#35mm"
+        }
+      ],
+      "indexedAt": "2026-10-05T07:00:15.259Z"
+    },
+    {
+      "uri": "at://did:plc:5icyfgwc7amrfksmeecpx3bf/app.bsky.feed.post/3mx4dahpn4k2a",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:01.196Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        },
+        {
+          "keywordId": "hashtag:believeinfilm",
+          "category": "hashtag",
+          "matchedText": "#believeinfilm"
         },
         {
           "keywordId": "camera-alias:Minolta",
@@ -35,10 +212,206 @@
           "matchedText": "Minolta"
         }
       ],
-      "indexedAt": "2026-10-02T23:49:42.568Z"
+      "indexedAt": "2026-10-05T06:50:44.659Z"
     },
     {
-      "uri": "at://did:plc:5ghleuxr7pga2bb2sundmayc/app.bsky.feed.post/3mwwkrb2a4c2j",
+      "uri": "at://did:plc:ihe7dt7af7cwpzks5ocpxvfo/app.bsky.feed.post/3mx4d6yvdsk2n",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:29:22.657Z",
+      "matches": [
+        {
+          "keywordId": "camera:OM-1",
+          "category": "camera",
+          "matchedText": "OM-1"
+        },
+        {
+          "keywordId": "camera-alias:Olympus",
+          "category": "camera",
+          "matchedText": "OLYMPUS"
+        }
+      ],
+      "indexedAt": "2026-10-05T06:49:55.261Z"
+    },
+    {
+      "uri": "at://did:plc:5btcwhlz3vjoamwy7shj2cfg/app.bsky.feed.post/3mx4d2ucgek2t",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:28:55.320Z",
+      "matches": [
+        {
+          "keywordId": "filmStock-alias:Instax",
+          "category": "filmStock",
+          "matchedText": "Instax"
+        }
+      ],
+      "indexedAt": "2026-10-05T06:47:37.058Z"
+    },
+    {
+      "uri": "at://did:plc:inund2tnuawj3punchwbcnw7/app.bsky.feed.post/3mx4by24uck2k",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:24.387Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        },
+        {
+          "keywordId": "hashtag:shotonfilm",
+          "category": "hashtag",
+          "matchedText": "#shotonfilm"
+        },
+        {
+          "keywordId": "camera:RB67",
+          "category": "camera",
+          "matchedText": "rb67"
+        },
+        {
+          "keywordId": "camera-alias:Mamiya",
+          "category": "camera",
+          "matchedText": "mamiya"
+        }
+      ],
+      "indexedAt": "2026-10-05T06:28:08.858Z"
+    },
+    {
+      "uri": "at://did:plc:5icyfgwc7amrfksmeecpx3bf/app.bsky.feed.post/3mx4bsx3m5s2a",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:01.196Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        },
+        {
+          "keywordId": "hashtag:believeinfilm",
+          "category": "hashtag",
+          "matchedText": "#believeinfilm"
+        },
+        {
+          "keywordId": "camera-alias:Olympus",
+          "category": "camera",
+          "matchedText": "Olympus"
+        }
+      ],
+      "indexedAt": "2026-10-05T06:25:17.265Z"
+    },
+    {
+      "uri": "at://did:plc:ptcdgegxl272cjghwwfasbyy/app.bsky.feed.post/3mx4b6z7fc72z",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:12:48.060Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        }
+      ],
+      "indexedAt": "2026-10-05T06:14:04.861Z"
+    },
+    {
+      "uri": "at://did:plc:zmgvbbhl7sdh4p7lw56mp2ct/app.bsky.feed.post/3mx4agbtef42r",
+      "highlighted": false,
+      "curatedAt": "2026-10-05T08:30:48.937Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:35mm",
+          "category": "hashtag",
+          "matchedText": "#35mm"
+        }
+      ],
+      "indexedAt": "2026-10-05T06:00:14.970Z"
+    },
+    {
+      "uri": "at://did:plc:6iyavcymb4dojhxab76czdte/app.bsky.feed.post/3mx46jmigyk2x",
+      "highlighted": false,
+      "curatedAt": "2026-10-05T08:47:30.018Z",
+      "matches": [
+        {
+          "keywordId": "camera-alias:Olympus",
+          "category": "camera",
+          "matchedText": "Olympus"
+        }
+      ],
+      "indexedAt": "2026-10-05T05:26:28.362Z"
+    },
+    {
+      "uri": "at://did:plc:ihe7dt7af7cwpzks5ocpxvfo/app.bsky.feed.post/3mx46ixnfc22n",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:29:22.657Z",
+      "matches": [
+        {
+          "keywordId": "camera:OM-1",
+          "category": "camera",
+          "matchedText": "OM-1"
+        },
+        {
+          "keywordId": "camera-alias:Olympus",
+          "category": "camera",
+          "matchedText": "OLYMPUS"
+        }
+      ],
+      "indexedAt": "2026-10-05T05:26:03.556Z"
+    },
+    {
+      "uri": "at://did:plc:3suni72zxb7wqrjh4facswyx/app.bsky.feed.post/3mx45fm2jak2d",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T13:57:04.868Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        }
+      ],
+      "indexedAt": "2026-10-05T05:06:19.063Z"
+    },
+    {
+      "uri": "at://did:plc:s7hh2zj6n5io63auv4yzof6a/app.bsky.feed.post/3mx3zr4tw742k",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T13:57:02.863Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:believeinfilm",
+          "category": "hashtag",
+          "matchedText": "#believeinfilm"
+        }
+      ],
+      "indexedAt": "2026-10-05T04:01:05.062Z"
+    },
+    {
+      "uri": "at://did:plc:zmgvbbhl7sdh4p7lw56mp2ct/app.bsky.feed.post/3mx3weggdg422",
+      "highlighted": false,
+      "curatedAt": "2026-10-05T08:30:48.993Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:35mm",
+          "category": "hashtag",
+          "matchedText": "#35mm"
+        }
+      ],
+      "indexedAt": "2026-10-05T03:00:14.860Z"
+    },
+    {
+      "uri": "at://did:plc:ptcdgegxl272cjghwwfasbyy/app.bsky.feed.post/3mx3ugd6e3g2z",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:12:48.060Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        },
+        {
+          "keywordId": "hashtag:35mm",
+          "category": "hashtag",
+          "matchedText": "#35mm"
+        }
+      ],
+      "indexedAt": "2026-10-05T02:25:31.164Z"
+    },
+    {
+      "uri": "at://did:plc:5ghleuxr7pga2bb2sundmayc/app.bsky.feed.post/3mx3tqe3qfk2n",
       "highlighted": false,
       "curatedAt": "2026-10-14T14:29:12.639Z",
       "matches": [
@@ -58,128 +431,25 @@
           "matchedText": "HP5"
         }
       ],
-      "indexedAt": "2026-10-02T23:49:34.160Z"
+      "indexedAt": "2026-10-05T02:13:22.958Z"
     },
     {
-      "uri": "at://did:plc:twfoosjibsbs4ivgvckiitol/app.bsky.feed.post/3mwwjpuklcc2g",
+      "uri": "at://did:plc:6w6rhmgxcv7p6xoaiohdf5fl/app.bsky.feed.post/3mx3swkfsh22o",
       "highlighted": false,
-      "curatedAt": "2026-10-14T14:13:23.203Z",
+      "curatedAt": "2026-10-14T14:13:21.077Z",
       "matches": [
         {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        }
-      ],
-      "indexedAt": "2026-10-02T23:30:51.069Z"
-    },
-    {
-      "uri": "at://did:plc:yuyulp7sytpvc2wta7gnndk3/app.bsky.feed.post/3mwwj6phe5lv2",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:18.987Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        }
-      ],
-      "indexedAt": "2026-10-02T23:21:11.468Z"
-    },
-    {
-      "uri": "at://did:plc:2qswu2pctxf47xpmos2anxsx/app.bsky.feed.post/3mwwix22zlk2k",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:19.176Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        }
-      ],
-      "indexedAt": "2026-10-02T23:16:52.260Z"
-    },
-    {
-      "uri": "at://did:plc:nvposgi5l2si5dgts4ublqvl/app.bsky.feed.post/3mwwify3rj22z",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:13:02.555Z",
-      "matches": [
-        {
-          "keywordId": "camera-alias:Minolta",
+          "keywordId": "camera-alias:Yashica",
           "category": "camera",
-          "matchedText": "MINOLTA"
+          "matchedText": "yashica"
         }
       ],
-      "indexedAt": "2026-10-02T23:07:25.468Z"
+      "indexedAt": "2026-10-05T01:58:52.464Z"
     },
     {
-      "uri": "at://did:plc:zmgvbbhl7sdh4p7lw56mp2ct/app.bsky.feed.post/3mwwhzguogt2h",
+      "uri": "at://did:plc:fwmz5ilzg5a6h7ezzmtidqeq/app.bsky.feed.post/3mx3q6w3v622c",
       "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:10.488Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        }
-      ],
-      "indexedAt": "2026-10-02T23:00:15.268Z"
-    },
-    {
-      "uri": "at://did:plc:5btcwhlz3vjoamwy7shj2cfg/app.bsky.feed.post/3mwwhumsywc2n",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:28:55.320Z",
-      "matches": [
-        {
-          "keywordId": "filmStock-alias:Instax",
-          "category": "filmStock",
-          "matchedText": "Instax"
-        }
-      ],
-      "indexedAt": "2026-10-02T22:57:39.160Z"
-    },
-    {
-      "uri": "at://did:plc:23uwe5ziojmyopka6jykoh6g/app.bsky.feed.post/3mwwhtpwjw22i",
-      "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:10.028Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:believeinfilm",
-          "category": "hashtag",
-          "matchedText": "#believeinfilm"
-        },
-        {
-          "keywordId": "filmStock:Portra 400",
-          "category": "filmStock",
-          "matchedText": "Portra 400"
-        },
-        {
-          "keywordId": "filmStock-alias:Portra",
-          "category": "filmStock",
-          "matchedText": "Portra"
-        }
-      ],
-      "indexedAt": "2026-10-02T22:57:07.069Z"
-    },
-    {
-      "uri": "at://did:plc:yp3qd3ifkceldk5sgi3czwv7/app.bsky.feed.post/3mwwhpi7nb226",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T13:57:03.805Z",
+      "curatedAt": "2026-10-05T08:30:48.461Z",
       "matches": [
         {
           "keywordId": "hashtag:filmphotography",
@@ -192,45 +462,17 @@
           "matchedText": "#believeinfilm"
         },
         {
-          "keywordId": "camera-alias:Minolta",
-          "category": "camera",
-          "matchedText": "Minolta"
-        }
-      ],
-      "indexedAt": "2026-10-02T22:54:45.563Z"
-    },
-    {
-      "uri": "at://did:plc:wsffgbfjdurfmpxcedcq7c4r/app.bsky.feed.post/3mwwhiey4rs2e",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:18.420Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:believeinfilm",
-          "category": "hashtag",
-          "matchedText": "#believeinfilm"
-        },
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        },
-        {
-          "keywordId": "filmStock-alias:UltraMax",
+          "keywordId": "filmStock-alias:Vision3",
           "category": "filmStock",
-          "matchedText": "ultramax"
-        },
-        {
-          "keywordId": "camera-alias:Olympus",
-          "category": "camera",
-          "matchedText": "olympus"
+          "matchedText": "VISION3"
         }
       ],
-      "indexedAt": "2026-10-02T22:50:46.368Z"
+      "indexedAt": "2026-10-05T01:09:59.960Z"
     },
     {
-      "uri": "at://did:plc:72bnxiuq6nibwcjdr3ak2srn/app.bsky.feed.post/3mwwgszbil224",
+      "uri": "at://did:plc:fwmz5ilzg5a6h7ezzmtidqeq/app.bsky.feed.post/3mx3q2yruu22c",
       "highlighted": false,
-      "curatedAt": "2026-10-14T14:12:46.852Z",
+      "curatedAt": "2026-10-05T08:30:48.518Z",
       "matches": [
         {
           "keywordId": "hashtag:filmphotography",
@@ -243,30 +485,17 @@
           "matchedText": "#believeinfilm"
         },
         {
-          "keywordId": "filmStock:Gold 200",
+          "keywordId": "filmStock-alias:Vision3",
           "category": "filmStock",
-          "matchedText": "Gold 200"
+          "matchedText": "VISION3"
         }
       ],
-      "indexedAt": "2026-10-02T22:38:51.360Z"
+      "indexedAt": "2026-10-05T01:07:57.764Z"
     },
     {
-      "uri": "at://did:plc:fyxup3moaom35xzxnomsryyx/app.bsky.feed.post/3mwwexano4j22",
+      "uri": "at://did:plc:fwmz5ilzg5a6h7ezzmtidqeq/app.bsky.feed.post/3mx3pzjkars2c",
       "highlighted": false,
-      "curatedAt": "2026-10-14T14:13:22.038Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:believeinfilm",
-          "category": "hashtag",
-          "matchedText": "#believeinfilm"
-        }
-      ],
-      "indexedAt": "2026-10-02T22:05:20.261Z"
-    },
-    {
-      "uri": "at://did:plc:cxt7lz7i6wju5kvfihvgj5su/app.bsky.feed.post/3mwwews7kys2z",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:13:07.885Z",
+      "curatedAt": "2026-10-05T08:30:48.573Z",
       "matches": [
         {
           "keywordId": "hashtag:filmphotography",
@@ -279,17 +508,30 @@
           "matchedText": "#believeinfilm"
         },
         {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
+          "keywordId": "filmStock-alias:Vision3",
+          "category": "filmStock",
+          "matchedText": "VISION3"
         }
       ],
-      "indexedAt": "2026-10-02T22:05:15.965Z"
+      "indexedAt": "2026-10-05T01:07:06.371Z"
     },
     {
-      "uri": "at://did:plc:ayusycz56ricx3zqoxj57i3d/app.bsky.feed.post/3mwwdkfc5jc2p",
+      "uri": "at://did:plc:23uwe5ziojmyopka6jykoh6g/app.bsky.feed.post/3mx3m3m56jk2n",
       "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:10.093Z",
+      "curatedAt": "2026-10-05T08:30:48.638Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:believeinfilm",
+          "category": "hashtag",
+          "matchedText": "#believeinfilm"
+        }
+      ],
+      "indexedAt": "2026-10-04T23:56:26.364Z"
+    },
+    {
+      "uri": "at://did:plc:vsblkq7tkwvckf74tm4ec6jq/app.bsky.feed.post/3mx3lvsvxms22",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:05.021Z",
       "matches": [
         {
           "keywordId": "hashtag:filmphotography",
@@ -300,71 +542,12 @@
           "keywordId": "hashtag:believeinfilm",
           "category": "hashtag",
           "matchedText": "#believeinfilm"
-        },
-        {
-          "keywordId": "filmStock-alias:CineStill",
-          "category": "filmStock",
-          "matchedText": "CineStill"
-        },
-        {
-          "keywordId": "process:C-41",
-          "category": "process",
-          "matchedText": "C-41"
         }
       ],
-      "indexedAt": "2026-10-02T21:40:17.656Z"
+      "indexedAt": "2026-10-04T23:53:11.566Z"
     },
     {
-      "uri": "at://did:plc:q6j3zlkx3lt3pe3lwj3b7cww/app.bsky.feed.post/3mwwcqcfmcpr2",
-      "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:10.973Z",
-      "matches": [
-        {
-          "keywordId": "camera-alias:Minolta",
-          "category": "camera",
-          "matchedText": "Minolta"
-        }
-      ],
-      "indexedAt": "2026-10-02T21:25:41.359Z"
-    },
-    {
-      "uri": "at://did:plc:pt42cavh4qnu25szbxrya77j/app.bsky.feed.post/3mwwchqjzb22e",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:18.608Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        },
-        {
-          "keywordId": "filmStock:CineStill 800T",
-          "category": "filmStock",
-          "matchedText": "CineStill 800T"
-        },
-        {
-          "keywordId": "filmStock-alias:CineStill",
-          "category": "filmStock",
-          "matchedText": "CineStill"
-        }
-      ],
-      "indexedAt": "2026-10-02T21:20:56.958Z"
-    },
-    {
-      "uri": "at://did:plc:fvgvtao5fuhjmjhqxijxxegb/app.bsky.feed.post/3mwwceglj622n",
-      "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:10.147Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        }
-      ],
-      "indexedAt": "2026-10-02T21:19:15.170Z"
-    },
-    {
-      "uri": "at://did:plc:rqlhwsbyyhdx57ydkyos767d/app.bsky.feed.post/3mwwc6kn2bk25",
+      "uri": "at://did:plc:rqlhwsbyyhdx57ydkyos767d/app.bsky.feed.post/3mx3kptjizs26",
       "highlighted": false,
       "curatedAt": "2026-10-14T13:57:01.021Z",
       "matches": [
@@ -389,349 +572,17 @@
           "matchedText": "Minolta"
         }
       ],
-      "indexedAt": "2026-10-02T21:15:53.162Z"
+      "indexedAt": "2026-10-04T23:32:30.864Z"
     },
     {
-      "uri": "at://did:plc:ujtaicnhpfkwfvfg344b7efy/app.bsky.feed.post/3mwwbnrytjs2r",
+      "uri": "at://did:plc:3txg3mgip2nmvg23epkb3jct/app.bsky.feed.post/3mx3jsr5e2c2w",
       "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:15.158Z",
-      "matches": [
-        {
-          "keywordId": "filmStock-alias:CineStill",
-          "category": "filmStock",
-          "matchedText": "Cinestill"
-        }
-      ],
-      "indexedAt": "2026-10-02T21:06:43.759Z"
-    },
-    {
-      "uri": "at://did:plc:3nn3zu7qoeghzfdljrjfj5go/app.bsky.feed.post/3mww7gvynzs2i",
-      "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:10.203Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "hashtag:believeinfilm",
-          "category": "hashtag",
-          "matchedText": "#believeinfilm"
-        },
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        }
-      ],
-      "indexedAt": "2026-10-02T20:26:47.268Z"
-    },
-    {
-      "uri": "at://did:plc:yk2qtczid4w7n35odok7zape/app.bsky.feed.post/3mww3corars24",
-      "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:11.029Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "hashtag:120film",
-          "category": "hashtag",
-          "matchedText": "#120film"
-        },
-        {
-          "keywordId": "camera-alias:Rolleiflex",
-          "category": "camera",
-          "matchedText": "Rolleiflex"
-        }
-      ],
-      "indexedAt": "2026-10-02T19:13:03.464Z"
-    },
-    {
-      "uri": "at://did:plc:v5jaa5qgog2wv2g6laajghon/app.bsky.feed.post/3mww2zpbm4c2v",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:13:09.032Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        }
-      ],
-      "indexedAt": "2026-10-02T19:07:49.865Z"
-    },
-    {
-      "uri": "at://did:plc:5ghleuxr7pga2bb2sundmayc/app.bsky.feed.post/3mwvyrvdo6c2m",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:12.639Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "filmStock:HP5 Plus",
-          "category": "filmStock",
-          "matchedText": "HP5 Plus"
-        },
-        {
-          "keywordId": "filmStock-alias:HP5",
-          "category": "filmStock",
-          "matchedText": "HP5"
-        }
-      ],
-      "indexedAt": "2026-10-02T18:27:45.168Z"
-    },
-    {
-      "uri": "at://did:plc:htqtphgee3kxn2eniy52kkv4/app.bsky.feed.post/3mwvyee4sx72f",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:12:53.894Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "camera-alias:Minolta",
-          "category": "camera",
-          "matchedText": "minolta"
-        }
-      ],
-      "indexedAt": "2026-10-02T18:20:05.558Z"
-    },
-    {
-      "uri": "at://did:plc:mzpjnyrg74hha4slvlceoqpl/app.bsky.feed.post/3mwvxmv6k3s2s",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:19.944Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        }
-      ],
-      "indexedAt": "2026-10-02T18:07:03.463Z"
-    },
-    {
-      "uri": "at://did:plc:zmgvbbhl7sdh4p7lw56mp2ct/app.bsky.feed.post/3mwvxb2usjn2c",
-      "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:10.546Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        }
-      ],
-      "indexedAt": "2026-10-02T18:00:18.063Z"
-    },
-    {
-      "uri": "at://did:plc:jv6o4aahggvz2w76z3st6a3i/app.bsky.feed.post/3mwvwvyu7ns24",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:12:59.555Z",
+      "curatedAt": "2026-10-14T14:13:29.019Z",
       "matches": [
         {
           "keywordId": "hashtag:believeinfilm",
           "category": "hashtag",
           "matchedText": "#believeinfilm"
-        },
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        },
-        {
-          "keywordId": "filmStock:Provia 100F",
-          "category": "filmStock",
-          "matchedText": "Provia 100F"
-        },
-        {
-          "keywordId": "filmStock-alias:Provia",
-          "category": "filmStock",
-          "matchedText": "Provia"
-        }
-      ],
-      "indexedAt": "2026-10-02T17:58:10.862Z"
-    },
-    {
-      "uri": "at://did:plc:de3n7rxikg5o6zks32u4pgad/app.bsky.feed.post/3mwvwngffu22f",
-      "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:10.601Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:believeinfilm",
-          "category": "hashtag",
-          "matchedText": "#believeinfilm"
-        }
-      ],
-      "indexedAt": "2026-10-02T17:49:23.370Z"
-    },
-    {
-      "uri": "at://did:plc:4q2n2m5obm45e6egcabdg64m/app.bsky.feed.post/3mwvvbqyclk2i",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:12:59.921Z",
-      "matches": [
-        {
-          "keywordId": "camera-alias:Rolleiflex",
-          "category": "camera",
-          "matchedText": "Rolleiflex"
-        }
-      ],
-      "indexedAt": "2026-10-02T17:24:59.567Z"
-    },
-    {
-      "uri": "at://did:plc:nf6yauyo462hilrzzbin7wf5/app.bsky.feed.post/3mwvuuxpunk26",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:13:06.922Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:believeinfilm",
-          "category": "hashtag",
-          "matchedText": "#believeinfilm"
-        }
-      ],
-      "indexedAt": "2026-10-02T17:17:57.167Z"
-    },
-    {
-      "uri": "at://did:plc:rlls5altdehpxxfsuub54ubj/app.bsky.feed.post/3mwvuqpht622d",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:12:50.318Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        }
-      ],
-      "indexedAt": "2026-10-02T17:15:22.966Z"
-    },
-    {
-      "uri": "at://did:plc:4q2n2m5obm45e6egcabdg64m/app.bsky.feed.post/3mwvukwvytk2o",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:12:59.921Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "hashtag:believeinfilm",
-          "category": "hashtag",
-          "matchedText": "#believeinfilm"
-        }
-      ],
-      "indexedAt": "2026-10-02T17:12:16.561Z"
-    },
-    {
-      "uri": "at://did:plc:vojrugoev3nnqviroxzc6zei/app.bsky.feed.post/3mwvu3hiwyc2q",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:13:08.272Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "hashtag:believeinfilm",
-          "category": "hashtag",
-          "matchedText": "#believeinfilm"
-        }
-      ],
-      "indexedAt": "2026-10-02T17:03:32.765Z"
-    },
-    {
-      "uri": "at://did:plc:okusjutatipypfohy2lldsn7/app.bsky.feed.post/3mwvtvresyc27",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:11.548Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        }
-      ],
-      "indexedAt": "2026-10-02T17:01:31.561Z"
-    },
-    {
-      "uri": "at://did:plc:zmgvbbhl7sdh4p7lw56mp2ct/app.bsky.feed.post/3mwvtvpgd2b22",
-      "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:10.659Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        }
-      ],
-      "indexedAt": "2026-10-02T17:00:15.666Z"
-    },
-    {
-      "uri": "at://did:plc:3tiskjzof3mdaik2d3jrmuez/app.bsky.feed.post/3mwvsnzbvvg22",
-      "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:10.712Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:believeinfilm",
-          "category": "hashtag",
-          "matchedText": "#believeinfilm"
-        },
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        }
-      ],
-      "indexedAt": "2026-10-02T16:38:04.157Z"
-    },
-    {
-      "uri": "at://did:plc:zq2iui4imagikxao2yeeldlh/app.bsky.feed.post/3mwvsm6l2wt2f",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:20.134Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        }
-      ],
-      "indexedAt": "2026-10-02T16:37:03.467Z"
-    },
-    {
-      "uri": "at://did:plc:jwoiweletuc27hgdoyviokkp/app.bsky.feed.post/3mwvs2zsxyk2p",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:12:47.553Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "hashtag:believeinfilm",
-          "category": "hashtag",
-          "matchedText": "#believeinfilm"
-        },
-        {
-          "keywordId": "hashtag:shotonfilm",
-          "category": "hashtag",
-          "matchedText": "#shotonfilm"
         },
         {
           "keywordId": "hashtag:35mm",
@@ -744,12 +595,12 @@
           "matchedText": "Gold 200"
         }
       ],
-      "indexedAt": "2026-10-02T16:31:32.459Z"
+      "indexedAt": "2026-10-04T23:15:44.461Z"
     },
     {
-      "uri": "at://did:plc:kc6vpvfn7atbhazrncid4ned/app.bsky.feed.post/3mwvs77ccmc2r",
+      "uri": "at://did:plc:s7hh2zj6n5io63auv4yzof6a/app.bsky.feed.post/3mx3jir3j372w",
       "highlighted": false,
-      "curatedAt": "2026-10-14T14:13:04.076Z",
+      "curatedAt": "2026-10-14T13:57:02.863Z",
       "matches": [
         {
           "keywordId": "hashtag:believeinfilm",
@@ -757,194 +608,143 @@
           "matchedText": "#believeinfilm"
         }
       ],
-      "indexedAt": "2026-10-02T16:29:52.872Z"
+      "indexedAt": "2026-10-04T23:10:05.773Z"
     },
     {
-      "uri": "at://did:plc:mzpjnyrg74hha4slvlceoqpl/app.bsky.feed.post/3mwvqsol3o22s",
+      "uri": "at://did:plc:jyjp4touo37puusvx74jtql2/app.bsky.feed.post/3mx3iuxnpy22m",
       "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:19.944Z",
+      "curatedAt": "2026-10-14T14:29:24.268Z",
       "matches": [
         {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        }
-      ],
-      "indexedAt": "2026-10-02T16:04:58.262Z"
-    },
-    {
-      "uri": "at://did:plc:y5564gobmh5tynzxeausnbck/app.bsky.feed.post/3mwvqppqias2q",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:13:16.045Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        }
-      ],
-      "indexedAt": "2026-10-02T16:03:13.165Z"
-    },
-    {
-      "uri": "at://did:plc:zmgvbbhl7sdh4p7lw56mp2ct/app.bsky.feed.post/3mwvqkmqbfy2i",
-      "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:10.767Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        }
-      ],
-      "indexedAt": "2026-10-02T16:00:22.367Z"
-    },
-    {
-      "uri": "at://did:plc:btnp2eopsbnbkcgrc6syvnir/app.bsky.feed.post/3mwvqeihors2t",
-      "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:11.087Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "hashtag:believeinfilm",
-          "category": "hashtag",
-          "matchedText": "#believeinfilm"
-        },
-        {
-          "keywordId": "hashtag:120film",
-          "category": "hashtag",
-          "matchedText": "#120film"
-        },
-        {
-          "keywordId": "camera-alias:Mamiya",
-          "category": "camera",
-          "matchedText": "mamiya"
-        }
-      ],
-      "indexedAt": "2026-10-02T15:57:05.958Z"
-    },
-    {
-      "uri": "at://did:plc:2dl7jpzhrohbddov2ixbc5ex/app.bsky.feed.post/3mwvq2jfxts2y",
-      "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:11.147Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "hashtag:35mm",
-          "category": "hashtag",
-          "matchedText": "#35mm"
-        },
-        {
-          "keywordId": "filmStock-alias:Ektar",
+          "keywordId": "filmStock:Gold 200",
           "category": "filmStock",
-          "matchedText": "ektar"
+          "matchedText": "Gold 200"
         },
         {
-          "keywordId": "camera-alias:Minolta",
+          "keywordId": "camera-alias:Bronica",
           "category": "camera",
-          "matchedText": "minolta"
+          "matchedText": "Bronica"
         }
       ],
-      "indexedAt": "2026-10-02T15:51:24.459Z"
+      "indexedAt": "2026-10-04T22:59:15.864Z"
     },
     {
-      "uri": "at://did:plc:dq3knmlhryzsj4gdwatk725c/app.bsky.feed.post/3mwvpojldvk26",
+      "uri": "at://did:plc:tvas3fib7g5fsdyc5gmpxnru/app.bsky.feed.post/3mx3iquyh722y",
       "highlighted": false,
-      "curatedAt": "2026-10-14T14:13:27.270Z",
+      "curatedAt": "2026-10-14T14:29:09.779Z",
       "matches": [
         {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "hashtag:believeinfilm",
-          "category": "hashtag",
-          "matchedText": "#believeinfilm"
-        }
-      ],
-      "indexedAt": "2026-10-02T15:44:42.865Z"
-    },
-    {
-      "uri": "at://did:plc:ltvm2yohuun3fa4g5coocken/app.bsky.feed.post/3mwvpkbsplc2f",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:06.050Z",
-      "matches": [
-        {
-          "keywordId": "camera:Rolleiflex 2.8F",
-          "category": "camera",
-          "matchedText": "Rolleiflex 2.8F"
-        },
-        {
-          "keywordId": "camera-alias:Rolleiflex",
-          "category": "camera",
-          "matchedText": "Rolleiflex"
-        }
-      ],
-      "indexedAt": "2026-10-02T15:42:20.258Z"
-    },
-    {
-      "uri": "at://did:plc:apmmqzakgnzzmpyjcubj677k/app.bsky.feed.post/3mwvpieyuy223",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T13:57:01.642Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        },
-        {
-          "keywordId": "filmStock-alias:Acros",
+          "keywordId": "filmStock:Tri-X 400",
           "category": "filmStock",
-          "matchedText": "acros"
+          "matchedText": "Tri-X 400"
         },
         {
-          "keywordId": "camera-alias:Yashica",
+          "keywordId": "filmStock-alias:Tri-X",
+          "category": "filmStock",
+          "matchedText": "Tri-X"
+        },
+        {
+          "keywordId": "camera:K1000",
           "category": "camera",
-          "matchedText": "yashica"
+          "matchedText": "K1000"
         }
       ],
-      "indexedAt": "2026-10-02T15:41:35.376Z"
+      "indexedAt": "2026-10-04T22:56:44.963Z"
     },
     {
-      "uri": "at://did:plc:b3brtv3i6g7usxrxi4yu2xxj/app.bsky.feed.post/3mwvpgaphf22f",
+      "uri": "at://did:plc:jyjp4touo37puusvx74jtql2/app.bsky.feed.post/3mx3ipzklfk2k",
       "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:19.367Z",
+      "curatedAt": "2026-10-14T14:29:24.268Z",
       "matches": [
         {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        }
-      ],
-      "indexedAt": "2026-10-02T15:40:09.558Z"
-    },
-    {
-      "uri": "at://did:plc:eavnmxdgqk4tjrs2s25dwk72/app.bsky.feed.post/3mwvpa3bsds2x",
-      "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:11.204Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
+          "keywordId": "filmStock:Gold 200",
+          "category": "filmStock",
+          "matchedText": "Gold 200"
         },
+        {
+          "keywordId": "camera-alias:Bronica",
+          "category": "camera",
+          "matchedText": "Bronica"
+        }
+      ],
+      "indexedAt": "2026-10-04T22:56:33.157Z"
+    },
+    {
+      "uri": "at://did:plc:rtd3jsvucvxxzfwiriu4hjok/app.bsky.feed.post/3mx3fuiugwk2o",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T13:57:04.141Z",
+      "matches": [
         {
           "keywordId": "hashtag:believeinfilm",
           "category": "hashtag",
           "matchedText": "#believeinfilm"
         },
         {
-          "keywordId": "filmStock-alias:HP5",
+          "keywordId": "filmStock:Portra 160",
           "category": "filmStock",
-          "matchedText": "HP5"
+          "matchedText": "Portra 160"
+        },
+        {
+          "keywordId": "filmStock-alias:Portra",
+          "category": "filmStock",
+          "matchedText": "Portra"
+        }
+      ],
+      "indexedAt": "2026-10-04T22:05:07.465Z"
+    },
+    {
+      "uri": "at://did:plc:x4eau6nww3ambozm2kcwwjgl/app.bsky.feed.post/3mx3fgkjsyc2i",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:23.596Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        }
+      ],
+      "indexedAt": "2026-10-04T21:57:28.963Z"
+    },
+    {
+      "uri": "at://did:plc:x4eau6nww3ambozm2kcwwjgl/app.bsky.feed.post/3mx3fedvums2i",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:23.596Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        }
+      ],
+      "indexedAt": "2026-10-04T21:56:15.166Z"
+    },
+    {
+      "uri": "at://did:plc:x4eau6nww3ambozm2kcwwjgl/app.bsky.feed.post/3mx3f7npa4s2i",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:23.596Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        }
+      ],
+      "indexedAt": "2026-10-04T21:53:37.859Z"
+    },
+    {
+      "uri": "at://did:plc:x4eau6nww3ambozm2kcwwjgl/app.bsky.feed.post/3mx3f4guam22i",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:23.596Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        },
+        {
+          "keywordId": "filmStock-alias:Fomapan",
+          "category": "filmStock",
+          "matchedText": "Fomapan"
         },
         {
           "keywordId": "camera-alias:Hasselblad",
@@ -952,10 +752,51 @@
           "matchedText": "Hasselblad"
         }
       ],
-      "indexedAt": "2026-10-02T15:36:44.260Z"
+      "indexedAt": "2026-10-04T21:51:49.862Z"
     },
     {
-      "uri": "at://did:plc:yp3qd3ifkceldk5sgi3czwv7/app.bsky.feed.post/3mwvoskbc5c2h",
+      "uri": "at://did:plc:b3hd5dg7dxwznlqdscwv7jqp/app.bsky.feed.post/3mx3dvz7an223",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:00.648Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        },
+        {
+          "keywordId": "hashtag:believeinfilm",
+          "category": "hashtag",
+          "matchedText": "#believeinfilm"
+        },
+        {
+          "keywordId": "camera:AE-1",
+          "category": "camera",
+          "matchedText": "AE-1"
+        }
+      ],
+      "indexedAt": "2026-10-04T21:30:06.661Z"
+    },
+    {
+      "uri": "at://did:plc:wsffgbfjdurfmpxcedcq7c4r/app.bsky.feed.post/3mx3cbjxers2y",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:29:18.420Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:believeinfilm",
+          "category": "hashtag",
+          "matchedText": "#believeinfilm"
+        },
+        {
+          "keywordId": "hashtag:35mm",
+          "category": "hashtag",
+          "matchedText": "#35mm"
+        }
+      ],
+      "indexedAt": "2026-10-04T21:00:51.506Z"
+    },
+    {
+      "uri": "at://did:plc:yp3qd3ifkceldk5sgi3czwv7/app.bsky.feed.post/3mx3bsxpztk2f",
       "highlighted": false,
       "curatedAt": "2026-10-14T13:57:03.805Z",
       "matches": [
@@ -975,12 +816,179 @@
           "matchedText": "Minolta"
         }
       ],
-      "indexedAt": "2026-10-02T15:29:03.660Z"
+      "indexedAt": "2026-10-04T20:52:37.464Z"
     },
     {
-      "uri": "at://did:plc:q2vzbvzzz2lpbzgnobdw7v73/app.bsky.feed.post/3mwvoowsssu2o",
+      "uri": "at://did:plc:5ghleuxr7pga2bb2sundmayc/app.bsky.feed.post/3mx3bsskrqs2d",
       "highlighted": false,
-      "curatedAt": "2026-10-14T14:12:54.082Z",
+      "curatedAt": "2026-10-14T14:29:12.639Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        },
+        {
+          "keywordId": "filmStock:HP5 Plus",
+          "category": "filmStock",
+          "matchedText": "HP5 Plus"
+        },
+        {
+          "keywordId": "filmStock-alias:HP5",
+          "category": "filmStock",
+          "matchedText": "HP5"
+        }
+      ],
+      "indexedAt": "2026-10-04T20:52:36.359Z"
+    },
+    {
+      "uri": "at://did:plc:cxt7lz7i6wju5kvfihvgj5su/app.bsky.feed.post/3mx37xxjq622g",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:07.885Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        },
+        {
+          "keywordId": "hashtag:believeinfilm",
+          "category": "hashtag",
+          "matchedText": "#believeinfilm"
+        },
+        {
+          "keywordId": "hashtag:35mm",
+          "category": "hashtag",
+          "matchedText": "#35mm"
+        },
+        {
+          "keywordId": "filmStock:HP5 Plus",
+          "category": "filmStock",
+          "matchedText": "HP5 Plus"
+        },
+        {
+          "keywordId": "filmStock-alias:HP5",
+          "category": "filmStock",
+          "matchedText": "HP5"
+        }
+      ],
+      "indexedAt": "2026-10-04T20:19:46.763Z"
+    },
+    {
+      "uri": "at://did:plc:isjvuo47h7l6eqfzry4hvffq/app.bsky.feed.post/3mx34ww5xok2x",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:29:12.869Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:believeinfilm",
+          "category": "hashtag",
+          "matchedText": "#believeinfilm"
+        }
+      ],
+      "indexedAt": "2026-10-04T19:25:22.063Z"
+    },
+    {
+      "uri": "at://did:plc:e56a35rh6wmkdcp2siiogx5d/app.bsky.feed.post/3mx34sufqlk2u",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:03.123Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:believeinfilm",
+          "category": "hashtag",
+          "matchedText": "#believeinfilm"
+        }
+      ],
+      "indexedAt": "2026-10-04T19:23:16.563Z"
+    },
+    {
+      "uri": "at://did:plc:y5564gobmh5tynzxeausnbck/app.bsky.feed.post/3mx32owfwr325",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:16.045Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:35mm",
+          "category": "hashtag",
+          "matchedText": "#35mm"
+        }
+      ],
+      "indexedAt": "2026-10-04T18:45:05.463Z"
+    },
+    {
+      "uri": "at://did:plc:okusjutatipypfohy2lldsn7/app.bsky.feed.post/3mx2zwqbmsc25",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:29:11.548Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        }
+      ],
+      "indexedAt": "2026-10-04T18:32:11.759Z"
+    },
+    {
+      "uri": "at://did:plc:htqtphgee3kxn2eniy52kkv4/app.bsky.feed.post/3mx2zc6fb3z2f",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:12:53.894Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        },
+        {
+          "keywordId": "camera-alias:Minolta",
+          "category": "camera",
+          "matchedText": "minolta"
+        }
+      ],
+      "indexedAt": "2026-10-04T18:20:01.258Z"
+    },
+    {
+      "uri": "at://did:plc:unsp36waof44uj5pk75k2o2g/app.bsky.feed.post/3mx2yh6v2kc2e",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:14.464Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:believeinfilm",
+          "category": "hashtag",
+          "matchedText": "#believeinfilm"
+        },
+        {
+          "keywordId": "hashtag:120film",
+          "category": "hashtag",
+          "matchedText": "#120film"
+        },
+        {
+          "keywordId": "filmStock-alias:Portra",
+          "category": "filmStock",
+          "matchedText": "Portra"
+        },
+        {
+          "keywordId": "camera-alias:Mamiya",
+          "category": "camera",
+          "matchedText": "Mamiya"
+        }
+      ],
+      "indexedAt": "2026-10-04T18:04:58.961Z"
+    },
+    {
+      "uri": "at://did:plc:zmgvbbhl7sdh4p7lw56mp2ct/app.bsky.feed.post/3mx2y6skppi2o",
+      "highlighted": false,
+      "curatedAt": "2026-10-05T08:30:49.050Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:35mm",
+          "category": "hashtag",
+          "matchedText": "#35mm"
+        }
+      ],
+      "indexedAt": "2026-10-04T18:00:14.557Z"
+    },
+    {
+      "uri": "at://did:plc:v5jaa5qgog2wv2g6laajghon/app.bsky.feed.post/3mx2xwnwoyk2j",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:13:09.032Z",
       "matches": [
         {
           "keywordId": "hashtag:filmphotography",
@@ -993,25 +1001,12 @@
           "matchedText": "#35mm"
         }
       ],
-      "indexedAt": "2026-10-02T15:26:59.861Z"
+      "indexedAt": "2026-10-04T17:55:44.560Z"
     },
     {
-      "uri": "at://did:plc:htgmoud2ac5qgwjiki4c5s72/app.bsky.feed.post/3mwvniwxmac25",
+      "uri": "at://did:plc:3zq4y6ozjx4yxruf56nvofct/app.bsky.feed.post/3mx2xj7fppk2h",
       "highlighted": false,
-      "curatedAt": "2026-10-14T14:13:08.840Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:filmphotography",
-          "category": "hashtag",
-          "matchedText": "#filmphotography"
-        }
-      ],
-      "indexedAt": "2026-10-02T15:05:46.560Z"
-    },
-    {
-      "uri": "at://did:plc:kpktu2im36mvwwfmgjfloalc/app.bsky.feed.post/3mwvnf3n7fs2y",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:12:50.135Z",
+      "curatedAt": "2026-10-14T14:13:07.108Z",
       "matches": [
         {
           "keywordId": "hashtag:believeinfilm",
@@ -1019,22 +1014,68 @@
           "matchedText": "#believeinfilm"
         },
         {
-          "keywordId": "filmStock-alias:Fomapan",
+          "keywordId": "filmStock:Velvia 50",
           "category": "filmStock",
-          "matchedText": "Fomapan"
+          "matchedText": "Velvia 50"
         },
         {
-          "keywordId": "camera-alias:Olympus",
+          "keywordId": "filmStock-alias:Velvia",
+          "category": "filmStock",
+          "matchedText": "Velvia"
+        },
+        {
+          "keywordId": "camera-alias:Minolta",
           "category": "camera",
-          "matchedText": "Olympus"
+          "matchedText": "Minolta"
         }
       ],
-      "indexedAt": "2026-10-02T15:03:35.559Z"
+      "indexedAt": "2026-10-04T17:48:14.466Z"
     },
     {
-      "uri": "at://did:plc:zmgvbbhl7sdh4p7lw56mp2ct/app.bsky.feed.post/3mwvn7bnwxj2f",
+      "uri": "at://did:plc:apmmqzakgnzzmpyjcubj677k/app.bsky.feed.post/3mx2xbxld2222",
       "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:10.826Z",
+      "curatedAt": "2026-10-14T13:57:01.642Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        },
+        {
+          "keywordId": "camera-alias:Minolta",
+          "category": "camera",
+          "matchedText": "minolta"
+        }
+      ],
+      "indexedAt": "2026-10-04T17:45:01.659Z"
+    },
+    {
+      "uri": "at://did:plc:inxhtqpuyd3ajiwqysfwqbbn/app.bsky.feed.post/3mx2wwxag622s",
+      "highlighted": false,
+      "curatedAt": "2026-10-14T14:29:16.284Z",
+      "matches": [
+        {
+          "keywordId": "hashtag:filmphotography",
+          "category": "hashtag",
+          "matchedText": "#filmphotography"
+        },
+        {
+          "keywordId": "filmStock-alias:HP5",
+          "category": "filmStock",
+          "matchedText": "HP5"
+        },
+        {
+          "keywordId": "camera-alias:Mamiya",
+          "category": "camera",
+          "matchedText": "Mamiya"
+        }
+      ],
+      "indexedAt": "2026-10-04T17:38:15.157Z"
+    },
+    {
+      "uri": "at://did:plc:45tpuenyjoho76cktmquilma/app.bsky.feed.post/3mx2w2qz7b22q",
+      "highlighted": false,
+      "curatedAt": "2026-10-05T08:30:49.109Z",
       "matches": [
         {
           "keywordId": "hashtag:35mm",
@@ -1042,12 +1083,12 @@
           "matchedText": "#35mm"
         }
       ],
-      "indexedAt": "2026-10-02T15:00:20.464Z"
+      "indexedAt": "2026-10-04T17:22:26.165Z"
     },
     {
-      "uri": "at://did:plc:3cyayz3bnw65jhaz5crkdi4s/app.bsky.feed.post/3mwvn4wdmrc2q",
+      "uri": "at://did:plc:apmmqzakgnzzmpyjcubj677k/app.bsky.feed.post/3mx2vxuqgy222",
       "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:16.075Z",
+      "curatedAt": "2026-10-14T13:57:01.642Z",
       "matches": [
         {
           "keywordId": "hashtag:filmphotography",
@@ -1055,66 +1096,20 @@
           "matchedText": "#filmphotography"
         }
       ],
-      "indexedAt": "2026-10-02T14:59:12.272Z"
+      "indexedAt": "2026-10-04T17:20:42.065Z"
     },
     {
-      "uri": "at://did:plc:jfj2upexgpz2zkbc7uu5rk3x/app.bsky.feed.post/3mwvlidtjxc27",
+      "uri": "at://did:plc:zmgvbbhl7sdh4p7lw56mp2ct/app.bsky.feed.post/3mx2utp237y2a",
       "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:10.883Z",
+      "curatedAt": "2026-10-05T08:30:49.165Z",
       "matches": [
         {
-          "keywordId": "hashtag:believeinfilm",
+          "keywordId": "hashtag:35mm",
           "category": "hashtag",
-          "matchedText": "#believeinfilm"
-        },
-        {
-          "keywordId": "filmStock:CineStill 800T",
-          "category": "filmStock",
-          "matchedText": "Cinestill 800T"
-        },
-        {
-          "keywordId": "filmStock-alias:CineStill",
-          "category": "filmStock",
-          "matchedText": "Cinestill"
-        },
-        {
-          "keywordId": "camera:K1000",
-          "category": "camera",
-          "matchedText": "K1000"
+          "matchedText": "#35mm"
         }
       ],
-      "indexedAt": "2026-10-02T14:29:46.566Z"
-    },
-    {
-      "uri": "at://did:plc:f2in3b45kwutmml6punlkygg/app.bsky.feed.post/3mwvl7526rc27",
-      "highlighted": false,
-      "curatedAt": "2026-10-14T14:29:19.557Z",
-      "matches": [
-        {
-          "keywordId": "hashtag:believeinfilm",
-          "category": "hashtag",
-          "matchedText": "#believeinfilm"
-        }
-      ],
-      "indexedAt": "2026-10-02T14:24:31.864Z"
-    },
-    {
-      "uri": "at://did:plc:elixwmkvur3dgwlvgdog2zre/app.bsky.feed.post/3mwvl3ybo722o",
-      "highlighted": false,
-      "curatedAt": "2026-10-03T09:09:11.266Z",
-      "matches": [
-        {
-          "keywordId": "filmStock:Tri-X 400",
-          "category": "filmStock",
-          "matchedText": "Tri-X 400"
-        },
-        {
-          "keywordId": "filmStock-alias:Tri-X",
-          "category": "filmStock",
-          "matchedText": "Tri-X"
-        }
-      ],
-      "indexedAt": "2026-10-02T14:22:44.757Z"
+      "indexedAt": "2026-10-04T17:00:20.674Z"
     }
   ]
 }
