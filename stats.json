@@ -5006,6 +5006,81 @@
         "feed:Shot on Film (clarabelle.xyz)": 1,
         "feed:filmphoto フィルム写真部 (take9.studio-so.biz)": 1
       }
+    },
+    {
+      "runAt": "2026-11-05T11:34:53.375Z",
+      "windowStart": "2026-11-04T13:48:23.374Z",
+      "windowEnd": "2026-11-05T08:27:58.071Z",
+      "matcherVersion": "1.4",
+      "sources": {
+        "feedGenerators": [
+          "Film Photo (triangulum.bsky.social)",
+          "Film Photography (jesselebourdais.bsky.social)",
+          "Film Photography (eduawaseka.bsky.social)",
+          "Film Photography (sccjono.com)",
+          "B&W Film Photography (noogapix.com)",
+          "Shot on Film (clarabelle.xyz)",
+          "Film is not dead (fabioquellaltro.bsky.social)",
+          "Analog Photography (dbphotography.bsky.social)",
+          "Analog & film photo (heyphin.bsky.social)",
+          "Analog Photography (gelbhaar.com) - was 502 at check time",
+          "#BelieveInFilm (ezwal.bsky.social)",
+          "Half Frame 35mm (heyphin.bsky.social)",
+          "FilmPhotographyWorldwide (venenum.bsky.social)",
+          "filmphoto フィルム写真部 (take9.studio-so.biz)",
+          "Hasselblad Shooters (bluesky.photography)",
+          "Mamiya Medium Format (darkslidefilm.bsky.social)"
+        ],
+        "authorHandles": [
+          "afilmphotographer.bsky.social",
+          "greyskyphotography.bsky.social",
+          "billygomberg.bsky.social",
+          "papashittycams.bsky.social",
+          "virgil-roger.photography",
+          "alexluyckxphoto.bsky.social",
+          "elias-jpg.bsky.social"
+        ]
+      },
+      "counts": {
+        "rawPostsFetched": 824,
+        "uniqueRawPosts": 575,
+        "alreadySeenDuplicates": 171,
+        "newUniquePosts": 404,
+        "droppedNoImage": 168,
+        "droppedDuplicateImage": 3,
+        "droppedUnsafe": 55,
+        "droppedNoKeywordMatch": 96,
+        "matchedPosts": 8,
+        "droppedAuthorCap": 0,
+        "droppedOverRunCap": 0,
+        "droppedTrustedRejectedAuthor": 0,
+        "autoApprovedTrustedAuthor": 74,
+        "addedToQueue": 8,
+        "uniqueAuthors": 8
+      },
+      "byKeyword": {
+        "hashtag:filmisnotdead": 1,
+        "filmStock-alias:Delta": 1,
+        "hashtag:35mm": 1,
+        "hashtag:filmphotography": 2,
+        "filmStock-alias:Tri-X": 1,
+        "camera:500C/M": 1,
+        "camera-alias:Hasselblad": 2,
+        "camera-alias:Leica": 1,
+        "filmStock-alias:Velvia": 1
+      },
+      "byCategory": {
+        "hashtag": 4,
+        "filmStock": 3,
+        "camera": 3
+      },
+      "bySource": {
+        "feed:Film is not dead (fabioquellaltro.bsky.social)": 3,
+        "feed:Film Photography (sccjono.com)": 1,
+        "feed:Hasselblad Shooters (bluesky.photography)": 2,
+        "feed:Film Photography (eduawaseka.bsky.social)": 1,
+        "feed:Analog Photography (gelbhaar.com) - was 502 at check time": 1
+      }
     }
   ]
 }
